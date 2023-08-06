@@ -1,0 +1,8 @@
+2023-08-06 03:27:45.379459 - Initialized conversion of CBT331
+2023-08-06 03:27:45.423940 - Received CBT.V505.FILE331.PDS from FILE331.XMI 
+2023-08-06 03:27:45.426320 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:27:45.427387 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/$$$DOC
+2023-08-06 03:27:45.428529 - Found $$NOTEHO.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/$$NOTEHO
+2023-08-06 03:27:45.429497 - Found @FILE331.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/@FILE331
+2023-08-06 03:27:45.430406 - Found SETPTRBY.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/SETPTRBY
+2023-08-06 03:27:45.431346 - Found SETPTRTO.txt (text/plain) in CBT.V505.FILE331.PDS, moved to PDS/SETPTRTO
