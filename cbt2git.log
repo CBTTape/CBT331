@@ -1,7 +1,7 @@
-2025-04-15 01:35:49.894925 - Received CBT.V508.FILE331.PDS from FILE331.XMI 
-2025-04-15 01:35:49.896112 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:35:49.896442 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$DOC
-2025-04-15 01:35:49.896609 - Found $$NOTEHO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$NOTEHO
-2025-04-15 01:35:49.896774 - Found @FILE331.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/@FILE331
-2025-04-15 01:35:49.896938 - Found SETPTRBY.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRBY
-2025-04-15 01:35:49.897091 - Found SETPTRTO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRTO
+2025-04-15 20:23:49.165773 - Received CBT.V508.FILE331.PDS from FILE331.XMI 
+2025-04-15 20:23:49.166937 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:23:49.167315 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$DOC
+2025-04-15 20:23:49.167537 - Found $$NOTEHO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$NOTEHO
+2025-04-15 20:23:49.167598 - Found @FILE331.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/@FILE331
+2025-04-15 20:23:49.167808 - Found SETPTRBY.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRBY
+2025-04-15 20:23:49.167984 - Found SETPTRTO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRTO
